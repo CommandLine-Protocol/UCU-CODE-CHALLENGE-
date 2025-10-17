@@ -1,0 +1,36 @@
+**Pseudocode**
+
+1. Import all necessary libraries
+   This step loads all the essential tools for handling data, images, and display functions so we can work efficiently from the start.
+   Analogy: It’s like taking out all the tools you’ll need before opening a puzzle box — your table, sorting trays, and picture guide — so that when you begin, you’re fully prepared.
+
+2. List all pieces showing the piece index and corrected piece index
+   We open the “puzzle box” (the data file) and check every piece’s identifying number — both its scrambled position and its true intended position. This helps us understand what’s inside and ensures no piece is missing or duplicated.
+
+3. Sort in corrected piece index order and print list
+   After identifying each piece’s true place, we arrange them in the proper order, as if laying out puzzle pieces in neat rows and columns based on their intended positions before looking at their pictures.
+
+4. Maintain the order and check for rotation pattern for each piece
+   Still keeping them face down (maintaining order), we check the rotation marks at the back — the angles showing how each piece was turned — so we know how to flip them back upright.
+
+5. Rotate each piece accordingly
+   We now flip each piece face up and gently turn it until its picture matches the correct upright orientation, ensuring that edges and corners align perfectly with its neighbors.
+
+6. Print list in correct index number and correct location
+   We confirm that every piece is now correctly positioned in the overall layout, documenting the exact row and column where it belongs, just like double-checking that each puzzle piece is back in its rightful place before sealing it together.
+
+7. Print image and save
+   Finally, we put the entire puzzle together, admire the full completed image, and take a snapshot to keep it safe — the digital equivalent of gluing and framing the finished puzzle.
+
+**Libraries used**
+pickle – Used to open and read the puzzle data file stored in binary format so we can access all the pieces inside (Cell 2).
+io – Handles byte streams, letting us convert raw binary image data into a readable format for image reconstruction (Cell 5).
+PIL.Image – Manages all image operations like loading, rotating, pasting, and saving, which is essential for fixing and rebuilding puzzle pieces (Cells 5 & 7).
+numpy – Converts image arrays or numerical pixel data into a standard format that the image library can understand (Cell 5).
+IPython.display – Displays images directly inside the notebook, allowing you to visually confirm your progress after reconstruction (Cell 7).
+
+**Personal Point of View:**
+This approach is like opening a jigsaw puzzle box, spreading out all the pieces, checking the numbers written on the back, sorting them neatly into their correct order by row and column, then flipping each one over and rotating it so the pictures line up perfectly. Step by step, you move from confusion to clarity — ensuring every piece is in its rightful place before revealing the final, complete image.
+
+**Conclusion:**
+The good thing about this method is that it lets you check your work step by step. At different points, you list or print what you have — first when you look at the pieces, then after sorting, then when checking how each piece should be turned, and again before saving. These checkpoints make it easy to pause, see what’s happening, and fix only the part that’s wrong if something doesn’t look right or prints wrong. Doing it this way keeps the work simple, easy to follow, and helps avoid mistakes.

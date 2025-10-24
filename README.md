@@ -6,10 +6,10 @@
 
 ## 📦 Contents
 
-1. 🎵 [**The Music Festival Schedule Optimizer Challenge**](./The-Music-Festival-Schedule-Optimizer-Challenge)  
+1. 🎵 [**The Music Festival Schedule Optimizer Challenge**](./The-Music-Festival-Schedule-Optimizer-Challenge)
    
-2. 🧩 [**The Scrambled Puzzle Challenge**](./The-Scrambled-Puzzle-Challenge)  
-   
+2. 🧩 [**The Scrambled Puzzle Challenge**](./The-Scrambled-Puzzle-Challenge)
+ 
+3. 🔧 [**The PC Build Validator Challenge**](./The-PC-Build-Validator-Challenge)
+
 ---
-
-

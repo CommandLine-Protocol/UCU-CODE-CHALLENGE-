@@ -1,0 +1,113 @@
+**PC Build Validator – User Manual**
+
+**Purpose**
+
+This program helps you find the **best PC build** that is:
+
+1. **Under a specified budget**
+2. **Compatible** (CPU, Motherboard, RAM, PSU rules)
+3. **Highest performance score** among available build kits
+
+**Input Format & Syntax**
+
+**1. Total Budget**
+
+- Enter an **integer** representing your total budget in dollars.
+
+**2. Number of Components in Inventory**
+
+- Enter an **integer** for the total number of components.
+
+**3. Component Details**
+For each component, enter **one line** with **6 space-separated values**:
+component_id type performance_score cost spec_1 spec_2
+**Fields:**
+
+- `component_id`: Unique ID, e.g., cpu_1
+- `type`: CPU, Motherboard, GPU, RAM, or PSU
+- `performance_score`: Integer score
+- `cost`: Price in dollars (integer)
+- `spec_1` and `spec_2`: Specifications depending on type
+
+**Examples:**
+cpu_1 CPU 500 300 LGA1700 95
+mobo_1 Motherboard 150 180 LGA1700 DDR5
+gpu_1 GPU 700 400 - 300
+ram_1 RAM 100 80 DDR5 -
+psu_1 PSU 50 100 750 -
+
+**Notes:**
+
+- Use `-` for specifications that do not apply.
+- Values must be **integers** for performance score, cost, wattage, and TDP.
+- Case-sensitive values for sockets and RAM types (`LGA1700` ≠ `lga1700`, `DDR5` ≠ `DDR5`).
+
+**4. Number of Build Kits**
+
+- Enter an **integer** for the number of build kits.
+
+**5. Build Kit Details**
+For each build kit, enter **one line** with **6 space-separated values**:
+kit_id cpu_id motherboard_id gpu_id ram_id psu_id
+
+**Example:**
+kit_A cpu_1 mobo_1 gpu_1 ram_1 psu_1
+kit_B cpu_2 mobo_2 gpu_1 ram_1 psu_1
+kit_C cpu_1 mobo_1 gpu_2 ram_1 psu_1
+
+**Notes:**
+
+- All component IDs must exist in the inventory.
+- Each kit must contain **exactly 5 components** (CPU, Motherboard, GPU, RAM, PSU).
+
+**6. Input Confirmation**
+After entering all inputs, the program will display:
+
+- Total Budget
+- Number of components
+- Component inventory
+- Number of build kits
+- Build kit details
+  You will be asked to **confirm** if the input is correct:
+  Do you want to proceed with this input? (Y/N):
+- Enter `Y` to proceed
+- Enter `N` to re-enter inputs
+
+**7. Optional Detailed Report**
+After computing the best build, the program will ask:
+Do you want to proceed with detailed report? (Y/N):
+
+- `Y` → Prints a detailed report with:
+
+  - Budget check for each kit
+  - Compatibility check for each kit
+  - Performance scores
+  - Reasons for failure
+
+- `N` → Program exits after showing best build
+
+**8. Common Input Errors**
+
+- Non-integer values for budget, cost, TDP, or wattage → **Error**
+- Missing or incorrectly typed component ID → **Build skipped**
+- Mismatched socket or RAM type → **Build marked incompatible**
+- PSU wattage too low → **Build marked incompatible**
+
+**9. Sample Input**
+
+1500
+8
+cpu_1 CPU 500 300 LGA1700 95
+cpu_2 CPU 450 250 AM5 105
+mobo_1 Motherboard 150 180 LGA1700 DDR5
+mobo_2 Motherboard 140 160 AM5 DDR4
+gpu_1 GPU 700 400 - 300
+gpu_2 GPU 600 350 - 250
+ram_1 RAM 100 80 DDR5 -
+psu_1 PSU 50 100 750 -
+3
+kit_A cpu_1 mobo_1 gpu_1 ram_1 psu_1
+kit_B cpu_2 mobo_2 gpu_1 ram_1 psu_1
+kit_C cpu_1 mobo_1 gpu_2 ram_1 psu_1
+
+This user manual ensures that inputs are **formatted correctly** so that the program can process them efficiently without errors.

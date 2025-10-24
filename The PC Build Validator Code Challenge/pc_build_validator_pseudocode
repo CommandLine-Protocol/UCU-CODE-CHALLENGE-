@@ -1,0 +1,97 @@
+**PC Build Validator – Pseudo Code**
+
+1. **Collect Input**
+
+   - Ask the user for the **Total Budget** and store it.
+
+   - Ask the user for the **number of components in inventory**.
+
+   - For each component in the inventory:
+
+     - Ask the user for `component_id`, `type`, `performance_score`, `cost`, `spec_1`, and `spec_2`.
+     - Validate numeric fields (performance_score, cost) to ensure they are integers.
+
+   - Ask the user for the **number of build kits**.
+
+   - For each build kit:
+
+     - Ask the user for `kit_id`, `cpu_id`, `motherboard_id`, `gpu_id`, `ram_id`, `psu_id`.
+
+   - Confirm input correctness; allow user to re-enter if needed.
+
+2. **Store Data Using Classes in Dictionary**
+
+   - **Define a Component base class**.
+   - Subclasses (CPU, Motherboard, GPU, RAM, PSU) can be defined if needed for **specific validations** (optional in code).
+   - When creating objects, **validate input** to ensure no invalid values (e.g., negative cost, missing specs, invalid TDP/PSU wattage).
+   - Store each component object in a **dictionary** using `component_id` as key → allows **O(1) lookup**.
+   - Store build kits in a **list** to preserve input order.
+
+3. **Output Inventory**
+
+   - Display a table with **attribute names and values**:
+
+     - Total Budget
+     - Number of Components
+     - Number of Build Kits
+     - Details of each component
+     - Details of each build kit
+
+4. **Process Build Kits Sequentially**
+
+   - For each build kit:
+
+     - Look up all 5 components in the dictionary.
+     - If any component is missing, record **missing component reason**.
+     - Calculate **total cost** and **total performance score**.
+     - Check **compatibility rules**:
+
+       - CPU socket matches motherboard socket.
+       - RAM type matches motherboard RAM type.
+       - PSU wattage ≥ CPU TDP + GPU TDP + 50 (handle invalid numeric input safely).
+
+     - Record **all reasons for failure** (missing component, over budget, incompatibility issues, invalid PSU wattage or TDP).
+     - Mark build as **valid** if no reasons for failure; otherwise **invalid**.
+
+5. **Track and Update Best Build**
+
+   - Initialize **Maximum Score** = 0 and **Best Build** = NONE.
+   - For each validated build kit:
+
+     - If valid and its score > Maximum Score:
+
+       - Update **Maximum Score**.
+       - Update **Best Build**.
+
+     - Store all results in a **results list** containing `(kit_id, valid, score, cost, reasons)` for later use.
+
+6. **Output Summary Results**
+
+   - Print **Maximum Score** and **Best Build**.
+   - For each kit in **results**:
+
+     - If invalid, print kit failed with all reasons.
+     - If valid but not best build, print kit passed: score is less than best build.
+
+7. **Optional Detailed Report**
+
+   - Ask user if they want a detailed report (Y/N).
+   - If yes, print three sections:
+
+     1. **Budget Check**: Show kit cost vs total budget, mark ✅ or ❌.
+     2. **Compatibility Check**: Show kit passes all checks ✅ or list all reasons for failure ❌.
+     3. **Performance Score**: Show kit score; highlight best build with ✅.
+
+   - Print final winner: `Winner: [Best Build] with [Maximum Score] points.`
+
+**Brief Description**
+
+This program finds the **best PC build** under a budget while ensuring **compatibility**. Users enter the **budget, components, and build kits**. Each component type (CPU, GPU, RAM, etc.) is represented by a **class** that handles validation and scoring.
+
+All components are stored in a **dictionary** for quick lookup. The program checks each build kit **sequentially** for:
+
+- Missing components
+- Budget limits
+- Compatibility rules (CPU-Motherboard socket, RAM type, PSU wattage)
+
+It tracks the **best scoring build** and prints a **report**, including reasons for any failed builds and an optional detailed report.

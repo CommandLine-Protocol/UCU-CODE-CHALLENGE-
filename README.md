@@ -12,6 +12,6 @@
  
 3. 🔧 [**The PC Build Validator Challenge**](./The-PC-Build-Validator-Challenge)
 
-4. 💳 .[**The Student Fee Challenge**](.The-Student-Fee-Challenge).
+4. 💳 .[**The Student Fee Challenge**](./The-Student-Fee-Challenge)
 
 ---

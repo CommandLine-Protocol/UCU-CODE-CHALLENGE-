@@ -14,4 +14,6 @@
 
 4. 💳 .[**The Student Fee Challenge**](./The-Student-Fee-Challenge)
 
+5. ⚙️ .[**The Aether Portal Landing Page  Challenge**](./The-Aether-Portal-Landing-Page-Challenge)
+
 ---

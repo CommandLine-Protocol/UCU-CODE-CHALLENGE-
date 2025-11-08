@@ -1,16 +1,88 @@
-# React + Vite
+# Aether Portal - Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A mesmerizing, high-impact single-page landing interface for the Aether AI system. Built with React, Tailwind CSS, Framer Motion, and Lottie animations.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Futuristic Design**: Premium, minimalist interface with holographic effects
+- **Smooth Animations**: Framer Motion micro-animations and transitions
+- **Lottie Integration**: Animated logo using Lottie JSON
+- **Particle Background**: Dynamic CSS particle system
+- **Responsive**: Fully responsive design for all devices
+- **Glassmorphism**: Modern glass-effect UI elements
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Framework**: React.js
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion + Lottie + CSS Animations
+- **Build Tool**: Vite
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Installation
+
+```bash
+npm install
+```
+
+### Development
+
+```bash
+npm run dev
+```
+
+### Build
+
+```bash
+npm run build
+```
+
+### Preview
+
+```bash
+npm run preview
+```
+
+## Project Structure
+
+```
+src/
+├─ assets/
+│   └─ hero-animation.json (Lottie animation)
+├─ components/
+│   ├─ Hero.jsx (Main hero section with CTAs)
+│   ├─ Features.jsx (Feature showcase)
+│   └─ Testimonials.jsx (Testimonials section)
+├─ App.jsx (Main app component)
+├─ main.jsx (Entry point)
+└─ index.css (Global styles)
+```
+
+## Components
+
+### Hero
+- Main landing section with prominent CTAs
+- Lottie animated logo
+- Smooth scroll indicator
+- Animated grid background
+
+### Features
+- Three feature cards with hover effects
+- Staggered reveal animations
+- Glassmorphism design
+
+### Testimonials
+- Three testimonial cards
+- 3D transform effects on hover
+- Asymmetric background elements
+
+## Design Highlights
+
+- **Color Palette**: Cyan (#00D9FF), Purple (#7B2CBF), Pink (#FF006E)
+- **Typography**: Orbitron for headings, Inter for body
+- **Effects**: Glassmorphism, holographic accents, particle system
+- **Animations**: Smooth transitions, hover effects, reveal animations
+
+
+

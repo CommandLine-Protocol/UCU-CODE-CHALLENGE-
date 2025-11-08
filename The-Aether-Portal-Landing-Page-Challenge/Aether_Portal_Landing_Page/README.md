@@ -1,12 +1,10 @@
 # Aether Portal - Landing Page
 
-A mesmerizing, high-impact single-page landing interface for the Aether AI system. Built with React, Tailwind CSS, Framer Motion, and Lottie animations.
+A mesmerizing, high-impact single-page landing interface for the Aether AI system. Built with React and Tailwind CSS. 
 
 ## Features
 
 - **Futuristic Design**: Premium, minimalist interface with holographic effects
-- **Smooth Animations**: Framer Motion micro-animations and transitions
-- **Lottie Integration**: Animated logo using Lottie JSON
 - **Particle Background**: Dynamic CSS particle system
 - **Responsive**: Fully responsive design for all devices
 
@@ -14,7 +12,6 @@ A mesmerizing, high-impact single-page landing interface for the Aether AI syste
 
 - **Framework**: React.js
 - **Styling**: Tailwind CSS
-- **Animations**: Framer Motion + Lottie + CSS Animations
 - **Build Tool**: Vite
 
 ## Getting Started
@@ -42,6 +39,7 @@ npm run build
 ```bash
 npm run preview
 ```
+
 
 
 

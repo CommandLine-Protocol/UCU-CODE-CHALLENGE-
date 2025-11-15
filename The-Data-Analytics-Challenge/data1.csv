@@ -1,0 +1,1001 @@
+id,item,price,date,time,quantity
+1,Fresh Strawberries,3.99,9/6/2024,9:16 PM,27
+2,Spaghetti Squash,3.99,11/11/2024,7:25 AM,26
+3,Blue Denim Jeans,49.99,1/2/2024,4:03 PM,22
+4,Raspberry Limeade,1.99,9/9/2024,6:38 AM,13
+5,Wrist Support Brace,19.99,11/16/2024,3:42 PM,7
+6,Folding Table,59.99,11/27/2024,8:36 PM,29
+7,Pumpkin Spice Pancake Mix,3.49,7/21/2024,4:10 AM,30
+8,Cheddar Cheese Crackers,2.29,1/25/2025,9:36 PM,14
+9,Sliced Strawberries,4.99,6/30/2024,2:55 PM,10
+10,Wine Glasses,29.99,1/21/2025,10:11 PM,12
+11,Bamboo Charcoal Air Purifier Bags,12.99,1/25/2024,5:20 AM,25
+12,Portable Camping Stove,49.99,6/10/2024,4:03 PM,12
+13,Frozen Acai Bowl,6.49,10/29/2024,5:15 AM,21
+14,Sweet Potato Tots,4.29,7/30/2024,10:42 AM,5
+15,Hummus Trio Pack,5.49,9/27/2024,2:28 PM,12
+16,Children's Educational Workbook,12.99,12/10/2024,3:35 AM,16
+17,Car Phone Mount,15.99,7/16/2024,3:15 PM,22
+18,Mushrooms,2.99,9/2/2024,8:41 AM,8
+19,Portable Hammock with Stand,69.99,1/24/2024,7:41 PM,20
+20,Garden Kneeler and Seat,39.99,3/21/2024,6:31 PM,2
+21,Laptop Sleeve,24.99,1/21/2024,6:54 PM,18
+22,Interactive Robot Toy,34.99,1/10/2024,3:26 PM,4
+23,Wireless Earbuds Case,12.99,8/10/2024,6:39 AM,24
+24,Wireless Induction Charger,19.99,4/28/2024,2:31 AM,6
+25,Frozen Burritos,8.99,12/8/2024,2:19 AM,28
+26,Smart Home Hub,99.99,1/13/2025,3:01 PM,19
+27,Pasta Primavera Kit,7.49,11/30/2024,6:13 PM,2
+28,Bluetooth Tracker,19.99,10/28/2024,8:34 AM,30
+29,Utility Cargo Pants,54.99,10/30/2024,12:47 AM,28
+30,Belted Trench Coat,89.99,6/29/2024,5:02 PM,14
+31,Peach Slices in Syrup,2.59,3/10/2024,11:49 AM,12
+32,Elderberry Syrup Kit,22.99,4/30/2024,2:06 AM,15
+33,Dog Waste Bag Dispenser,6.99,5/25/2024,8:41 PM,1
+34,Laptop Sleeve,24.99,1/6/2024,1:27 PM,5
+35,Sporty Leggings,39.99,3/21/2024,4:14 AM,1
+36,Gardening Fairy Figurines,14.99,2/9/2024,7:42 AM,13
+37,Stainless Steel Mixing Bowls,29.99,5/18/2024,3:25 AM,15
+38,Automatic Pet Feeder,69.99,7/31/2024,1:15 PM,30
+39,Organic Green Lentils,3.99,10/3/2024,9:41 AM,16
+40,Brownie Bites,4.99,2/15/2024,9:05 AM,28
+41,Pumpkin Spice Muffins,3.99,1/9/2024,10:15 PM,4
+42,Portable Speaker Stand,39.99,7/1/2024,9:01 AM,6
+43,Patterned Knit Scarf,25.99,1/17/2025,7:16 AM,10
+44,Pet Grooming Glove,12.99,9/11/2024,9:23 PM,13
+45,Deep Tissue Massage Gun,89.99,11/20/2024,10:14 PM,22
+46,Cable Knit Beanie,19.99,1/28/2024,12:09 PM,2
+47,Italian Breadsticks,2.49,11/21/2024,5:13 PM,12
+48,Sunglasses Case,15.99,11/15/2024,12:22 PM,4
+49,Fridge Magnet Set,15.99,5/20/2024,4:03 AM,17
+50,Spinach and Feta Wraps,4.99,5/13/2024,12:23 AM,3
+51,Silicone Ice Cube Tray,10.99,7/23/2024,5:02 AM,26
+52,Organic Almonds,8.99,5/12/2024,1:50 PM,14
+53,Pocket Blanket,24.99,5/26/2024,10:33 PM,8
+54,Decorative LED Neon Sign,45.99,12/26/2024,12:00 PM,23
+55,Peanut Butter Cookies,3.49,1/4/2025,6:25 PM,6
+56,Canvas Tote Bag,19.99,10/5/2024,3:36 AM,21
+57,Dark Chocolate Tart,6.29,2/21/2024,3:41 AM,11
+58,Baby Monitor,79.99,1/26/2025,12:48 PM,26
+59,Multi-Function Meat Tenderizer,19.99,11/15/2024,9:24 PM,7
+60,Harvest Grain Salad,5.49,1/1/2024,3:23 PM,24
+61,Organic Brown Sugar,2.49,12/23/2024,8:48 PM,7
+62,Low-Fat Yogurt,3.29,12/28/2024,12:00 PM,11
+63,Board Game Storage,19.99,6/8/2024,6:39 AM,22
+64,Caramelized Onion Dip,3.99,6/23/2024,12:09 AM,27
+65,Window Bird Feeder with Suction Cups,28.99,1/25/2024,12:30 AM,7
+66,Wrist Support Brace,19.99,5/19/2024,6:11 AM,16
+67,Pet Water Fountain,39.99,8/11/2024,11:17 PM,5
+68,Organic Blueberries,5.49,9/25/2024,7:06 AM,11
+69,Rechargeable Electric Toothbrush,49.99,1/20/2025,10:28 PM,29
+70,Safety First Aid Kit,29.99,3/18/2024,1:57 AM,20
+71,Electric Skillet,49.99,10/26/2024,12:34 AM,2
+72,Portable UV Sterilizer,19.99,10/28/2024,4:57 AM,30
+73,Men's Waterproof Hiking Boots,89.99,8/15/2024,7:57 AM,10
+74,Beef Chili,4.5,7/7/2024,8:10 PM,10
+75,Berry Smoothie Mix,4.99,1/22/2025,1:46 PM,6
+76,Frozen Cauliflower Rice,2.99,9/12/2024,10:57 AM,10
+77,Educational STEM Kit,35.99,1/19/2024,8:17 PM,26
+78,Blue Denim Jeans,49.99,5/16/2024,9:35 AM,11
+79,Multi-Purpose Scissors,8.99,9/17/2024,1:28 AM,11
+80,Skincare Set,54.99,12/12/2024,1:28 AM,13
+81,Motion Sensor Light,19.99,3/21/2024,8:26 PM,28
+82,Spinach Feta Wraps,4.29,8/10/2024,7:24 PM,7
+83,Ginger Turmeric Latte Mix,5.29,2/24/2024,9:47 AM,21
+84,Whole Wheat Pasta,2.49,8/12/2024,1:28 AM,6
+85,Pet Carrier Backpack,39.99,6/7/2024,11:41 PM,10
+86,Compact Pop-Up Tent,69.99,5/18/2024,3:37 AM,16
+87,Roasted Red Pepper Sauce,3.29,11/20/2024,6:02 AM,6
+88,Smart Wi-Fi Light Bulbs,19.99,4/22/2024,6:32 PM,28
+89,Digital Food Scale,22.99,4/29/2024,10:42 AM,16
+90,Organic Coconut Flakes,3.49,11/12/2024,2:12 PM,1
+91,Herb Garlic Butter,3.99,11/22/2024,9:28 PM,26
+92,Buffalo Style Cauliflower Bites,5.49,3/28/2024,12:53 AM,14
+93,Hibiscus Tea Bags,3.79,12/25/2024,8:55 AM,11
+94,Green Smoothie Mix,5.99,4/2/2024,12:31 PM,1
+95,Silicone Baking Mat,15.99,9/27/2024,2:19 AM,3
+96,Fried Rice,4.29,4/21/2024,2:46 PM,4
+97,Lentils,2.99,2/23/2024,6:31 PM,3
+98,Foam Roller for Muscle Recovery,29.99,4/24/2024,2:07 AM,8
+99,Telescope,159.99,1/19/2024,8:09 AM,15
+100,Dog Waste Bag Dispenser,6.99,8/1/2024,12:17 AM,19
+101,Puzzle Mat,22.99,4/26/2024,4:22 AM,4
+102,Avocados,1.5,10/25/2024,12:41 PM,19
+103,Cinnamon Roll Dough,4.49,1/16/2024,1:30 PM,12
+104,Handmade Soap Making Kit,34.99,7/24/2024,8:08 AM,5
+105,Spicy Vegetable Sushi Rolls,8.49,2/11/2024,2:35 PM,14
+106,Mushroom Soup (canned),2.49,8/30/2024,4:20 PM,26
+107,Honey Sesame Chicken Mix,8.99,1/24/2024,2:36 PM,5
+108,Mediterranean Flatbread,3.5,1/30/2024,2:11 AM,8
+109,Kale Caesar Salad Kit,5.99,3/11/2024,6:47 PM,9
+110,Fitness Resistance Bands,29.99,11/11/2024,7:28 AM,23
+111,Breezy Off-The-Shoulder Top,34.99,9/14/2024,5:00 PM,7
+112,Cauliflower Rice Stir-Fry,4.99,5/7/2024,3:43 PM,24
+113,Sliced Strawberries,4.99,3/30/2024,4:22 PM,24
+114,Athletic Compression Tights,39.99,4/21/2024,9:22 PM,18
+115,Yoga Mat,25,4/10/2024,1:10 PM,21
+116,Cherry Almond Protein Bar,1.99,12/5/2024,12:20 AM,1
+117,Frozen Mixed Vegetables,1.99,1/5/2024,1:13 AM,9
+118,Travel Pillow with Memory Foam,29.99,1/28/2025,11:56 PM,19
+119,Travel Shoe Bags Set,15.99,11/10/2024,1:39 PM,22
+120,Wrap Front Midi Skirt,44.99,6/6/2024,10:18 PM,3
+121,USB Wall Charger,19.99,2/15/2024,1:38 AM,19
+122,Smart Scale,59.99,8/11/2024,12:11 AM,14
+123,Comfy Slippers,29.99,9/18/2024,3:09 PM,29
+124,Elderberry Syrup Kit,22.99,5/29/2024,4:42 AM,1
+125,Glass Water Bottle,25.99,7/29/2024,9:32 AM,2
+126,Recipe Book Stand,22.99,1/12/2025,9:07 PM,13
+127,Organic Honeycrisp Apples,1.99,11/12/2024,5:57 PM,5
+128,Almond Quinoa Salad,5.99,1/24/2024,3:44 PM,21
+129,Multi-Port USB Hub,19.99,1/13/2024,3:36 AM,2
+130,Dill Pickle Chips,2.29,8/24/2024,9:39 PM,28
+131,Electric Meat Grinder,89.99,2/23/2024,8:35 PM,16
+132,Mini Hand Gesture Drone,29.99,11/9/2024,8:47 PM,7
+133,Ethical Wool Scarf,29.99,4/16/2024,12:49 PM,23
+134,Glass Water Bottle,25.99,3/31/2024,6:25 PM,17
+135,Magnetic Phone Case,19.99,2/18/2024,5:39 PM,12
+136,Chopping Board,29.99,3/28/2024,5:16 PM,25
+137,Gluten-Free Pancake Mix,5.99,3/13/2024,11:51 AM,14
+138,Workstation Laptop Stand,49.99,5/17/2024,6:13 AM,7
+139,Oven-Baked Cheese Crisps,3.99,9/24/2024,7:22 PM,11
+140,Electric Can Opener,29.99,10/15/2024,3:19 AM,3
+141,Organic Tomato Soup,3.79,5/15/2024,8:37 AM,22
+142,Frozen Berry Medley,5.49,2/7/2024,1:14 AM,30
+143,Pet Safety Harness,24.99,7/31/2024,10:56 PM,22
+144,Smartphone Projector Kit,24.99,12/23/2024,1:59 PM,8
+145,Folding Pocket Knife,24.99,11/4/2024,7:28 AM,14
+146,Fleece Throw Blanket,29.99,6/3/2024,3:41 AM,30
+147,Compressed Towel Tablets,12.99,1/22/2024,7:42 AM,4
+148,Insulated Coffee Mug,24.99,8/10/2024,11:25 PM,20
+149,Creative Puzzle Game,19.99,10/17/2024,4:22 PM,7
+150,DIY Candle Kit,34.99,10/3/2024,9:37 PM,26
+151,Nutty Granola Clusters,2.49,2/24/2024,11:17 AM,10
+152,High-Speed Hand Blender,39.99,6/15/2024,11:40 AM,14
+153,Chili Con Carne Mix,2.99,7/13/2024,6:53 AM,14
+154,Under Desk Footrest,29.99,5/8/2024,7:30 AM,16
+155,Portable Solar Charger,29.99,8/9/2024,3:58 PM,15
+156,Fitbit Activity Tracker,99.99,12/29/2024,12:04 AM,20
+157,Ethical Wool Scarf,29.99,5/4/2024,4:41 PM,20
+158,Outdoor Camping Hammock,29.99,1/13/2024,1:43 PM,16
+159,Non-Stick Baking Sheets,29.99,3/3/2024,9:09 AM,15
+160,Adjustable Pet Grooming Table,109.99,3/28/2024,4:04 AM,30
+161,LED Strip Lights Kit,29.99,11/3/2024,7:16 AM,20
+162,Watering Can with Nozzle,19.99,8/8/2024,2:53 AM,9
+163,Weighted Jump Rope,15.99,3/29/2024,11:46 PM,8
+164,Children's Backpack,29.99,7/9/2024,11:22 PM,7
+165,Coconut Cream Pie Yogurt,1.99,1/5/2025,8:09 AM,21
+166,Sliced Turkey Breast,5.49,6/17/2024,8:24 PM,20
+167,Adjustable Kitchen Broom Stand,14.99,12/16/2024,9:53 PM,29
+168,Classic Chicken Noodle Soup,3.49,7/29/2024,8:01 PM,18
+169,Classic BBQ Sauce,2.79,2/27/2024,11:51 PM,7
+170,Folding Table,59.99,11/16/2024,9:18 PM,24
+171,Chocolate Chip Muffins,3.99,1/13/2024,12:15 PM,6
+172,Computer Monitor Stand,29.99,8/4/2024,11:24 AM,26
+173,Greek Yogurt,1.99,1/21/2024,10:12 PM,15
+174,Pumpkin Spice Coffee,7.99,11/30/2024,1:16 PM,16
+175,Buffalo Stilton Cheese,8.99,12/17/2024,12:34 AM,2
+176,Solar String Lights,29.99,6/2/2024,6:54 PM,6
+177,Barbecue Chicken Pizza,8.99,12/8/2024,3:22 PM,3
+178,Vegetarian Stir Fry Sauce,2.49,4/17/2024,1:48 AM,17
+179,Almond Flour Pizza Crust,7.99,12/25/2024,12:03 AM,19
+180,Portable Speakers,69.99,4/28/2024,10:29 AM,3
+181,Vegetable Stir-Fry Kit,6.99,1/7/2025,7:20 AM,18
+182,Crispy Potato Tots,3.69,10/15/2024,2:54 PM,25
+183,Honey BBQ Riblets,12.99,10/12/2024,10:41 PM,20
+184,Fitness Jump Box,69.99,3/17/2024,12:36 PM,19
+185,Electric Meat Grinder,89.99,11/20/2024,1:57 AM,1
+186,Dog Training Clicker,5.99,12/8/2024,4:47 AM,18
+187,Couscous Mix,2.49,10/15/2024,12:55 PM,16
+188,Savory Oats,2.49,6/5/2024,1:34 PM,13
+189,Portable Campfire,39.99,9/16/2024,4:20 AM,9
+190,Digital Bullet Journal,24.99,12/19/2024,4:04 PM,13
+191,Eco-Friendly Cleaning Cloths,12.99,1/18/2025,8:27 AM,6
+192,Spaghetti Sauce,2.99,12/13/2024,1:30 PM,15
+193,Biodegradable Dog Waste Bags,14.99,9/21/2024,8:04 AM,26
+194,Organic Italian Seasoning,2.99,7/28/2024,10:24 AM,6
+195,Granola,4.79,8/7/2024,8:03 AM,21
+196,Compact Portable Grill,79.99,1/21/2024,1:04 AM,25
+197,Portable Solar Path Lights,39.99,12/28/2024,1:28 PM,8
+198,Foldable Electric Scooter,349.99,2/7/2024,8:40 PM,16
+199,Granola,4.79,8/14/2024,12:08 PM,19
+200,Gardening Gloves,15.99,7/14/2024,7:12 AM,9
+201,Wild Rice & Quinoa Mix,2.99,8/24/2024,3:44 AM,9
+202,Balsamic Salad Dressing,2.99,6/29/2024,8:50 PM,6
+203,Vegetable Spiralizer,19.99,2/2/2024,12:09 AM,16
+204,Hand Mixer,29.99,12/10/2024,7:34 PM,23
+205,Slim Fit Chinos,54.99,5/28/2024,9:54 PM,13
+206,Garam Masala Spice Blend,2.79,10/22/2024,9:53 PM,15
+207,Essential Oil Diffuser,34.99,1/9/2024,10:15 PM,12
+208,Folding Table,59.99,9/16/2024,5:39 AM,28
+209,Foam Building Blocks for Kids,22.99,6/14/2024,5:03 AM,4
+210,Fresh Basil,1.99,8/9/2024,8:37 AM,5
+211,USB Desk Fan,14.99,12/22/2024,12:17 AM,17
+212,Granola Bars,4.99,1/1/2024,10:33 PM,18
+213,Chino Shorts,34.99,5/6/2024,8:42 AM,25
+214,Ice Pack,8.99,6/27/2024,6:56 PM,17
+215,Sour Cream,3.49,11/10/2024,4:27 PM,18
+216,Solar Garden Lights,39.99,10/20/2024,3:40 AM,26
+217,Eco-Friendly Notepad,8.99,1/14/2024,2:45 AM,8
+218,Watering Can with Nozzle,19.99,1/2/2025,5:02 AM,6
+219,Home Karaoke System,129.99,12/27/2024,8:07 AM,20
+220,Camping Chair with Cooler,49.99,12/28/2024,3:40 AM,20
+221,Toasted Coconut Granola,4.99,6/16/2024,3:27 AM,21
+222,Graphic Sweatshirt,34.99,1/25/2024,7:01 PM,4
+223,Lentil Pasta,4.99,5/11/2024,9:06 AM,8
+224,Asian Salad Mix,3.99,1/10/2024,9:43 PM,22
+225,Portable Bluetooth Keyboard,39.99,12/18/2024,7:12 PM,9
+226,Spaghetti and Meatball Dinner Kit,7.99,11/17/2024,2:19 PM,5
+227,Vintage Button-Down Shirt,45.99,1/21/2025,4:42 PM,3
+228,Cranberry Pecan Granola,3.99,7/28/2024,12:01 AM,7
+229,Heat-Resistant Silicone Mat,19.99,3/30/2024,10:10 PM,7
+230,Chicken Breasts,9.99,4/13/2024,11:31 AM,8
+231,Organic Almonds,8.99,3/21/2024,12:40 AM,18
+232,Feta Cheese,4.99,12/13/2024,4:34 PM,20
+233,Board Game,34.99,5/1/2024,1:17 AM,12
+234,Sunflower Seeds,2.99,5/27/2024,9:13 PM,7
+235,Electric Skillet,49.99,12/9/2024,11:51 AM,11
+236,Zesty Garlic Hummus,3.99,2/19/2024,7:29 AM,22
+237,Microwave Popcorn Maker,19.99,5/11/2024,2:42 PM,9
+238,Basil Pesto Pasta,6.49,1/12/2025,11:21 AM,22
+239,Mashed Sweet Potatoes,3.99,5/24/2024,10:54 PM,4
+240,Patterned Knit Scarf,25.99,1/21/2025,12:54 PM,6
+241,Teriyaki Salmon Fillets,9.99,3/14/2024,11:00 PM,5
+242,Paint By Numbers Kit,24.99,11/4/2024,8:39 AM,24
+243,Graphic Sweatshirt,34.99,2/1/2024,2:29 PM,29
+244,Wireless Charger,24.99,2/24/2024,3:36 PM,19
+245,Beet Salad,3.99,1/12/2025,12:58 AM,27
+246,Basil Pesto Pasta,6.49,1/26/2024,10:41 PM,14
+247,Butternut Squash Soup,3.49,11/23/2024,10:13 AM,18
+248,Coconut Macaroons,4.99,12/18/2024,7:40 AM,10
+249,Maple Cinnamon Granola Bars,3.49,2/2/2024,5:02 PM,7
+250,Portable Refrigerator Freezer,299.99,7/6/2024,1:00 PM,1
+251,Organic Black Beans,1.29,8/4/2024,8:20 PM,15
+252,Coconut Oil Spray,4.99,7/31/2024,5:30 AM,19
+253,Rice Cakes,2.29,4/18/2024,2:52 AM,19
+254,Rice Noodles,3.49,4/15/2024,4:15 AM,3
+255,Chili Garlic Sauce,2.49,9/10/2024,4:28 PM,19
+256,Almond Milk Yogurt,1.99,4/27/2024,11:17 AM,7
+257,Low-Fat Yogurt,3.29,1/10/2024,9:46 AM,5
+258,Fridge Magnet Set,15.99,12/30/2024,2:04 PM,30
+259,Vegetable Pizza Rolls,6.49,1/14/2025,6:08 PM,24
+260,Self-Cleaning Cat Litter Box,199.99,1/7/2025,3:56 AM,9
+261,BBQ Lentil Chips,3.49,2/17/2024,7:58 PM,6
+262,Cotton Quilted Throw Blanket,39.99,8/3/2024,3:50 AM,12
+263,Organic Coconut Yogurt,4.49,4/22/2024,5:01 PM,27
+264,Peanut Butter Chocolate Clusters,2.99,11/23/2024,5:01 AM,4
+265,Gardening Tools Set,45,11/19/2024,12:31 PM,17
+266,Magnetic Phone Car Mount,14.99,3/30/2024,8:25 AM,5
+267,Cocoa Powder,3.99,7/14/2024,4:49 PM,13
+268,Baby Safety Corner Guards,9.99,7/31/2024,2:32 PM,2
+269,Rainbow Veggie Chips,3.29,7/21/2024,3:24 PM,5
+270,Asian Stir-Fry Vegetables,2.99,6/30/2024,1:58 AM,17
+271,LED Desk Lamp,35,3/8/2024,5:02 AM,29
+272,Rustic Italian Breads,3.99,5/19/2024,5:57 PM,2
+273,Honey Roasted Almonds,4.99,7/16/2024,2:14 AM,24
+274,Tofu,2.49,9/3/2024,9:48 AM,8
+275,Cork Yoga Mat,39.99,3/23/2024,6:20 AM,30
+276,Ice Cream,5.99,1/29/2025,5:09 AM,18
+277,Puzzle,27.99,7/15/2024,6:54 PM,13
+278,Multi-Layer Food Steamer,39.99,7/2/2024,12:11 AM,21
+279,Mini Food Processor,39.99,8/21/2024,10:22 AM,19
+280,Teriyaki Sauce,2.99,11/29/2024,8:36 AM,4
+281,Classic Cheeseburger Mix,5.49,1/26/2025,3:27 PM,14
+282,Chocolate Coconut Granola,3.79,12/21/2024,12:43 AM,20
+283,Adjustable Laptop Desk,59.99,4/13/2024,8:04 AM,7
+284,Tactical Backpack,59.99,11/2/2024,10:11 PM,26
+285,Sesame Garlic Noodles,3.49,5/3/2024,7:25 AM,17
+286,Indestructible Dog Toy,15.99,7/17/2024,12:03 PM,30
+287,Granulated Sugar,2.49,5/3/2024,11:35 PM,6
+288,Stainless Steel Travel Mug,19.99,1/6/2024,9:14 PM,16
+289,Electric Pressure Washer,199.99,2/18/2024,8:22 PM,17
+290,Smart Air Purifier,199.99,10/23/2024,5:01 AM,29
+291,Roasted Garlic,4.29,11/13/2024,11:45 PM,28
+292,Noise-Canceling Earbuds,79.99,11/12/2024,10:06 AM,17
+293,Chipotle Sauce,3.29,11/30/2024,2:32 AM,16
+294,Rechargeable Laptop Battery Pack,49.99,6/23/2024,8:37 AM,22
+295,High-Quality Yoga Mat,34.99,12/26/2024,2:11 PM,25
+296,Chic Ankle Strap Heels,69.99,10/20/2024,9:55 AM,22
+297,Puzzle,27.99,2/16/2024,9:45 PM,26
+298,High-Low Hem Tee,22.99,11/3/2024,10:16 AM,8
+299,Pomegranate Juice,4.49,11/8/2024,6:47 AM,11
+300,Cat Tree with Scratching Posts,79.99,5/8/2024,6:47 PM,27
+301,Gluten-Free Bread,5.49,8/28/2024,10:17 PM,21
+302,Vegetable Chips,3.99,2/2/2024,2:19 PM,18
+303,Beef Stroganoff Mix,5.49,11/2/2024,6:14 PM,24
+304,Frozen Mixed Berries,5.99,9/8/2024,9:59 PM,10
+305,Quinoa and Kale Salad Kit,5.29,1/3/2025,10:19 PM,14
+306,Italian Breadsticks,2.49,8/28/2024,12:24 AM,3
+307,Whole Roasted Chicken,9.99,5/4/2024,6:57 AM,17
+308,Whole Wheat Pasta,2.49,1/26/2025,4:50 AM,2
+309,Travel Yoga Mat,34.99,2/9/2024,3:27 PM,26
+310,Dog Waste Bag Dispenser,6.99,5/14/2024,8:56 AM,7
+311,Sunglasses Case,15.99,1/4/2024,10:30 AM,5
+312,Vegetarian Pizza,5.49,5/29/2024,7:12 PM,4
+313,Herbal Tea Variety Pack,4.99,2/24/2024,7:53 AM,21
+314,Garlic Herb Marinade,3.29,6/5/2024,5:07 AM,13
+315,Garlic Naan Bread,3.99,3/6/2024,4:01 AM,20
+316,Kids' Dinosaur-Themed Lunchbox,19.99,2/17/2024,8:20 AM,7
+317,Kids' Activity Book,14.99,12/14/2024,8:27 AM,23
+318,Balsamic Vinaigrette,2.69,8/20/2024,9:51 PM,6
+319,LED Makeup Mirror,39.99,2/5/2024,8:57 PM,13
+320,Vegan Tacos,7.49,2/9/2024,6:55 AM,28
+321,Set of Decorative Storage Bins,34.99,4/29/2024,4:44 PM,4
+322,Fried Rice,4.29,6/8/2024,11:19 AM,20
+323,Sweet Chili Sauce,2.99,5/22/2024,5:57 AM,18
+324,Maple Glazed Carrots,3.29,7/28/2024,6:16 PM,27
+325,V-Neck Sweater,49.99,10/13/2024,4:59 PM,10
+326,Fashionable Fanny Pack,24.99,5/10/2024,7:38 AM,13
+327,Digital Wireless Meat Thermometer,39.99,7/19/2024,4:23 AM,25
+328,Ranch Dressing,2.59,10/12/2024,12:19 AM,21
+329,Ergonomic Gaming Chair,199.99,4/17/2024,1:37 PM,18
+330,Electric Can Opener,29.99,11/14/2024,12:22 PM,27
+331,Electric Kettle with Temperature Control,49.99,1/15/2025,2:06 AM,19
+332,Classic Bagels,2.99,5/19/2024,3:37 PM,14
+333,Sunglasses Case,15.99,1/11/2024,1:54 AM,7
+334,Stuffed Grape Leaves,5.79,8/12/2024,6:43 PM,8
+335,Handcrafted Wooden Coasters,19.99,5/23/2024,5:56 AM,17
+336,Wrap Jumpsuit,54.99,9/8/2024,3:31 PM,15
+337,Peach Fruit Cups,1.99,11/20/2024,9:44 PM,2
+338,Almond Flour Pancake Mix,5.99,8/28/2024,7:19 AM,13
+339,Artisan Pickles,2.49,1/1/2024,12:43 AM,25
+340,Children's Backpack,29.99,11/21/2024,9:45 PM,5
+341,Beef Stew Meat,5.99,9/14/2024,8:19 AM,12
+342,Smart Thermos,39.99,9/5/2024,5:46 AM,16
+343,Stylish Combat Boots,99.99,7/13/2024,4:27 PM,19
+344,Truffle Parmesan Fries,4.99,8/25/2024,3:30 AM,1
+345,High-Low Hem Tee,22.99,4/15/2024,7:53 AM,18
+346,Noise Cancelling Ear Muffs,24.99,6/11/2024,12:15 AM,1
+347,Sliced Provolone Cheese,3.99,5/6/2024,8:25 PM,24
+348,Coconut Rice,2.29,4/30/2024,3:02 AM,9
+349,Outdoor Camping Lantern,34.99,10/23/2024,2:43 PM,8
+350,Fitness Foam Roller,29.99,11/16/2024,9:33 AM,1
+351,Beef Jerky,5.99,9/20/2024,8:52 AM,19
+352,Vegan Tacos,7.49,10/24/2024,9:11 PM,1
+353,Inspirational Wall Art,24.99,11/20/2024,1:46 AM,9
+354,Vegan Taco Seasoning,2.49,9/11/2024,11:17 AM,12
+355,Creative Puzzle Game,19.99,11/5/2024,9:59 AM,14
+356,Electric Screwdriver,59.99,11/16/2024,11:57 PM,14
+357,Cinnamon Sugar Tortilla Chips,3.29,11/10/2024,9:31 AM,1
+358,Glass Tea Pot,34.99,3/4/2024,1:57 PM,5
+359,Electric Milk Frother,19.99,5/26/2024,12:15 AM,18
+360,Incense Holder,14.99,1/11/2024,11:17 AM,30
+361,Spinach and Feta Wraps,4.99,5/31/2024,2:23 PM,23
+362,Gardening Kneeler and Seat,39.99,1/11/2024,4:34 AM,7
+363,Italian Meatballs,8.49,2/11/2024,11:54 AM,30
+364,LED Desk Lamp with USB Charging Port,29.99,9/22/2024,9:14 PM,18
+365,Interactive Robot Toy,34.99,9/30/2024,3:39 AM,16
+366,Wireless Charging Pad,19.99,7/14/2024,7:16 AM,17
+367,Banana Nut Oatmeal Cups,2.99,10/16/2024,3:43 PM,30
+368,Portable Solar Path Lights,39.99,9/6/2024,4:58 PM,29
+369,Sweet and Spicy Barbecue Sauce,3.99,4/26/2024,11:57 AM,18
+370,Ice Cream Maker,79.99,12/3/2024,4:15 AM,16
+371,Smart WiFi Plug,19.99,1/27/2024,4:42 AM,8
+372,Wireless Car Charger,24.99,10/17/2024,9:09 AM,26
+373,Fitness Tracker,49.99,2/25/2024,1:22 PM,7
+374,Garden Vegetable Chips,3.49,9/8/2024,2:40 AM,24
+375,Children's Gardening Set,19.99,7/27/2024,2:52 PM,21
+376,Coconut Milk Yogurt,2.99,12/6/2024,3:18 AM,8
+377,Organic Honeycrisp Apples,1.99,1/15/2024,3:41 PM,22
+378,Cat Tree with Scratching Posts,79.99,6/26/2024,6:40 AM,22
+379,Garlic Breadsticks,3.49,6/20/2024,12:50 PM,13
+380,Cat Scratching Post with Toys,44.99,7/8/2024,11:58 PM,4
+381,Outdoor Adventure Backpack,59.99,2/20/2024,5:17 PM,7
+382,Kids' Outdoor Explorer Kit,24.99,7/5/2024,11:40 PM,4
+383,Eco-Friendly Yoga Blocks,15.99,1/31/2024,7:02 PM,19
+384,LED Flashlight,19.99,9/28/2024,6:43 PM,22
+385,Handmade Soap Making Kit,34.99,11/9/2024,6:01 AM,30
+386,Smartphone Projector,29.99,2/12/2024,1:48 PM,22
+387,Paprika,1.79,1/19/2024,1:19 AM,24
+388,Pet Camera with Treat Dispenser,149.99,7/22/2024,5:12 AM,21
+389,Car Vacuum,49.99,12/9/2024,3:22 PM,26
+390,Chickpea Salad Deluxe,4.29,3/17/2024,3:36 PM,28
+391,Wooden Children's Play Kitchen,129.99,8/29/2024,7:33 AM,10
+392,Banana Chips,1.99,12/30/2024,12:14 AM,5
+393,Classic BBQ Sauce,2.79,5/21/2024,11:34 PM,26
+394,Hiking Gaiters,29.99,5/7/2024,12:26 AM,22
+395,Jasmine Rice,2.39,1/22/2025,9:42 AM,3
+396,Silicone Wine Glasses,22.99,1/11/2024,12:55 PM,11
+397,Rice Pilaf Mix,2.59,12/15/2024,8:56 AM,10
+398,Belted Trench Coat,89.99,3/7/2024,12:04 AM,26
+399,Homemade Salsa,3.79,1/6/2025,1:00 PM,13
+400,Microfiber Cleaning Cloths,9.99,1/16/2024,12:30 AM,11
+401,Foldable Electric Scooter,349.99,11/13/2024,11:06 AM,20
+402,Educational STEM Kit,35.99,2/10/2024,11:06 AM,23
+403,Adjustable Resistance Bands,39.99,10/27/2024,2:13 PM,30
+404,DIY Candle Making Kit,22.99,8/24/2024,3:53 AM,23
+405,Canvas Wall Art,39.99,5/3/2024,7:03 AM,16
+406,Slim Fit Chinos,54.99,9/22/2024,10:23 AM,22
+407,Sweet Cherry Tomatoes,2.99,10/30/2024,12:44 PM,12
+408,Mediterranean Flatbread,3.5,5/27/2024,3:59 AM,22
+409,Kitchen Knife Sharpening System,39.99,7/5/2024,11:22 AM,25
+410,Plant-Based Meal Prep Containers,18.99,1/15/2025,8:37 AM,12
+411,Pumpkin Spice Coffee,7.99,10/16/2024,5:01 PM,16
+412,Lockable Bicycle Chain,19.99,3/12/2024,4:16 PM,23
+413,Peach & Mango Salsa,4.49,6/14/2024,11:15 PM,27
+414,Vanilla Protein Powder,24.99,2/20/2024,5:03 PM,12
+415,Balsamic Salad Dressing,2.99,4/4/2024,7:29 PM,11
+416,Beef Jerky,5.99,3/23/2024,4:14 PM,25
+417,Fishing Rod,49.99,12/25/2024,9:15 PM,11
+418,Oven Thermometer,11.99,1/14/2024,6:05 AM,15
+419,Avocados,1.5,1/27/2024,7:56 PM,29
+420,Air Fryer Oven,149.99,7/25/2024,4:29 AM,13
+421,Quinoa and Kale Salad Kit,5.29,3/30/2024,8:33 AM,19
+422,Travel Shoe Bags Set,15.99,6/8/2024,8:05 PM,16
+423,Elderberry Syrup Kit,22.99,1/15/2025,9:44 AM,13
+424,Maple Almond Yogurt,1.89,9/13/2024,1:27 AM,23
+425,Sooji (Semolina),1.99,6/23/2024,12:32 PM,3
+426,Athletic Compression Tights,39.99,3/6/2024,5:25 AM,24
+427,Coconut Macaroons,4.99,1/30/2025,11:14 PM,14
+428,Over-The-Door Shoe Organizer,25.99,10/5/2024,3:30 PM,18
+429,Classic Beef Chili,7.99,12/18/2024,8:07 PM,4
+430,Children's Backpack,29.99,5/26/2024,9:49 PM,24
+431,Puffed Rice Cake,2.49,2/13/2024,5:30 AM,17
+432,Portable Massage Table,199.99,1/14/2024,10:30 PM,14
+433,Personal Blender,39.99,9/11/2024,7:15 AM,11
+434,Car Emergency Kit,49.99,8/25/2024,11:19 AM,8
+435,Cinnamon Ice Cream,4.99,8/4/2024,9:54 PM,23
+436,Spicy Garlic Edamame,3.99,2/23/2024,7:13 AM,15
+437,Feta Cheese Crumbles,2.49,5/29/2024,5:19 AM,12
+438,Electric Heating Pad,20.99,9/6/2024,4:08 PM,20
+439,Travel Document Organizer,15.99,11/7/2024,3:43 PM,23
+440,Mechanical Pencil Set,19.99,1/29/2025,5:36 AM,25
+441,Ceramic Knife Set,39.99,1/17/2025,10:13 AM,7
+442,Gardening Gloves with Claws,24.99,8/2/2024,8:04 PM,8
+443,Cheddar & Bacon Potato Skins,7.49,4/11/2024,6:15 AM,25
+444,Heat-Resistant Silicone Mat,19.99,5/9/2024,7:27 AM,15
+445,Wireless Gaming Headset,89.99,5/13/2024,2:37 PM,19
+446,Zucchini Noodle Pasta,3.99,10/27/2024,5:48 PM,26
+447,Apple Juice,3.29,10/24/2024,5:21 AM,2
+448,Pet Grooming Gloves,9.99,1/15/2025,3:33 PM,9
+449,Portable Pet Pooper Scooper,12.99,1/25/2025,2:44 PM,2
+450,Maple Pecan Granola,4.49,1/29/2024,12:30 AM,30
+451,Gardening Tools Set,45,9/22/2024,3:09 PM,2
+452,Vegetable Spiralizer,19.99,9/10/2024,10:46 AM,29
+453,Suction Cup Hooks,9.99,10/9/2024,10:55 AM,14
+454,Maple Oatmeal,2.99,1/13/2024,6:23 AM,3
+455,Coconut Oil,6.49,8/7/2024,11:42 PM,28
+456,Classic Cheesecake Mix,4.99,7/4/2024,6:45 AM,13
+457,Caramel Apple Taffy,1.99,1/30/2025,1:01 AM,8
+458,Vegan Mac & Cheese,8.99,5/4/2024,3:12 PM,3
+459,Bamboo Cutting Board,22,2/6/2024,8:11 PM,8
+460,Cinnamon Ice Cream,4.99,11/26/2024,1:59 AM,4
+461,Coconut Curry Sauce,3.89,1/30/2024,3:20 AM,7
+462,Electric Stir Fry Pan,49.99,5/22/2024,8:25 PM,8
+463,Scent Diffuser Oil,14.99,1/10/2024,9:07 AM,23
+464,Fitness Tracker with Heart Rate Monitor,59.99,1/10/2024,4:32 PM,6
+465,Smoked Salmon,14.99,1/31/2024,4:52 AM,29
+466,Fitness Jump Box,69.99,1/16/2025,10:05 AM,20
+467,Cucumber Lime Sparkling Water,1.49,10/16/2024,2:54 AM,11
+468,Cocktail Shaker and Mixing Glass Set,39.99,7/6/2024,10:13 PM,11
+469,Garlic Herb Seasoning,1.99,3/30/2024,9:56 AM,19
+470,Portable Solar Path Lights,39.99,7/16/2024,5:52 PM,11
+471,Strawberry Banana Smoothie Pack,4.99,11/21/2024,12:49 PM,9
+472,Tactical Backpack,59.99,7/16/2024,1:50 PM,1
+473,Tailored Blazer,99.99,1/8/2024,12:10 AM,8
+474,Travel Beach Blanket,29.99,4/26/2024,6:32 AM,13
+475,Pecan Pie Filling,3.99,2/11/2024,2:46 AM,29
+476,Safety First Aid Kit,29.99,1/16/2025,7:54 AM,24
+477,White Rice,1.49,3/21/2024,11:53 PM,13
+478,Under Desk Footrest,29.99,1/26/2025,5:17 AM,12
+479,Classic Caesar Salad Kit,4.99,2/26/2024,10:18 AM,24
+480,Coconut Lime Rice,2.99,12/26/2024,5:29 AM,5
+481,Chili Lime Shrimp,8.99,2/10/2024,3:42 AM,8
+482,Vegetable Quinoa Bowl,5.99,12/26/2024,4:19 AM,18
+483,Rechargeable Laptop Battery Pack,49.99,1/22/2024,9:39 PM,29
+484,Cucumber Lime Sparkling Water,1.49,2/22/2024,4:45 PM,14
+485,Sriracha Hot Chili Sauce,2.99,7/9/2024,6:58 PM,15
+486,Handheld Garment Steamer,34.99,1/12/2024,11:50 PM,24
+487,Peach Green Tea,3.49,2/6/2024,5:58 AM,24
+488,Tomato Basil Soup,3.49,9/7/2024,7:18 PM,29
+489,Pest Control Traps,22.99,7/21/2024,5:35 AM,10
+490,Skincare Set,54.99,6/9/2024,4:07 PM,28
+491,Smoked Paprika Chicken Thighs,6.99,2/24/2024,4:27 PM,5
+492,Rechargeable Laptop Battery Pack,49.99,12/3/2024,6:22 PM,30
+493,Peanut Butter Filled Pretzels,3.99,9/9/2024,2:18 AM,6
+494,Bamboo Toothbrush Holder,14.99,4/5/2024,7:40 AM,11
+495,Carrot and Celery Sticks,2.99,9/22/2024,9:46 PM,12
+496,Mushrooms,2.99,1/14/2025,9:57 AM,4
+497,Spaghetti and Meatball Dinner Kit,7.99,5/15/2024,7:03 AM,8
+498,Vegetable Stir Fry Mix,3.29,2/18/2024,1:58 AM,11
+499,Cinnamon Sugar Tortilla Chips,3.29,5/12/2024,12:27 AM,4
+500,Margherita Pizza,7.99,9/7/2024,6:23 AM,20
+501,Sliced Cucumbers,1.29,6/16/2024,3:36 AM,13
+502,Chipotle Black Bean Burger,4.99,3/30/2024,4:06 PM,15
+503,Organic Coconut Flakes,3.49,1/19/2024,7:22 AM,12
+504,Digital Wireless Camera,199.99,7/13/2024,7:42 PM,23
+505,Quinoa,4.49,11/27/2024,4:53 PM,29
+506,Smart Thermostat with Wi-Fi,169.99,2/18/2024,11:28 AM,8
+507,Eco-Friendly Cleaning Cloths,12.99,1/3/2025,5:25 PM,16
+508,Fresh Basil,1.99,4/26/2024,9:43 PM,25
+509,Canvas Wall Art,39.99,2/3/2024,8:53 AM,8
+510,Savory Rice Cakes,2.5,10/23/2024,9:06 PM,19
+511,Indoor Grill,59.99,1/12/2024,2:19 AM,8
+512,Almond Flour Biscuits,6.49,8/6/2024,3:00 AM,8
+513,Slingback Sandals,29.99,10/7/2024,3:10 PM,6
+514,Organic Lentil Soup,4.99,6/12/2024,10:28 AM,21
+515,Kids Tablet,129.99,3/30/2024,5:35 PM,24
+516,Smoky BBQ Jackfruit,4.99,10/15/2024,9:12 AM,15
+517,Dog Training Clicker,5.99,1/8/2025,5:53 AM,16
+518,Peach Fruit Cups,1.99,1/8/2024,1:27 PM,15
+519,Peanut Butter Chocolate Clusters,2.99,2/18/2024,5:21 PM,17
+520,Digital Thermostat,59.99,8/27/2024,6:58 AM,7
+521,Cold Brew Coffee Maker,34.99,1/28/2024,9:47 AM,3
+522,Dark Chocolate Almond Butter Cups,4.99,1/2/2025,2:39 PM,19
+523,Pet First Aid Kit,29.99,11/16/2024,5:18 PM,1
+524,Garden Tool Set,34.99,9/1/2024,8:48 PM,19
+525,Ground Cinnamon,1.99,5/18/2024,7:30 PM,15
+526,Non-Slip Yoga Socks,12.99,10/28/2024,12:02 AM,6
+527,Rustic Wooden Picture Frame,19.99,9/17/2024,4:11 PM,22
+528,Hibiscus Herbal Tea,3.29,6/1/2024,8:37 AM,1
+529,Portable Hammock with Stand,69.99,12/25/2024,8:29 AM,26
+530,Multi-Cooker,89.99,9/20/2024,8:39 AM,24
+531,Two-Tier Fruit Basket,29.99,7/26/2024,8:21 PM,29
+532,Grilled Veggie Burgers,6.29,6/8/2024,7:24 PM,9
+533,Vegetable Fried Rice,4.99,11/21/2024,2:57 AM,11
+534,Peach Preserves,3.79,3/10/2024,12:45 PM,9
+535,Multi-Functional Rice Cooker,49.99,8/9/2024,2:55 AM,6
+536,Vegetable Stir-Fry Sauce,3.49,11/6/2024,5:24 AM,6
+537,Thai Basil Fried Rice,5.99,12/12/2024,10:58 AM,4
+538,Customizable Name Puzzle,29.99,7/14/2024,10:11 PM,29
+539,Buffalo Sauce,2.99,8/3/2024,2:57 PM,16
+540,Camera Tripod,49.99,1/8/2024,6:45 AM,2
+541,Italian Pasta,2.29,8/1/2024,11:16 AM,11
+542,Fresh Basil Pesto,4.79,3/21/2024,2:07 AM,24
+543,Frozen Cauliflower Rice,2.99,5/10/2024,12:50 PM,1
+544,Classic Bagels,2.99,1/16/2025,11:03 PM,6
+545,Cinnamon Roll Dough,4.49,3/28/2024,2:50 PM,27
+546,Wall Calendar,17.99,10/18/2024,8:05 PM,3
+547,Pet Bed,39.99,5/29/2024,4:15 PM,8
+548,Solar Garden Lights,39.99,7/12/2024,9:09 PM,20
+549,LED Flashlight,19.99,5/22/2024,2:06 AM,6
+550,Electric Griddle,54.99,1/12/2025,9:20 AM,23
+551,Protein Bar Variety Pack,12.99,11/15/2024,3:47 PM,21
+552,Portable Charcoal Grill,89.99,5/10/2024,5:44 PM,6
+553,Pet Travel Backpack Carrier,49.99,4/18/2024,9:34 PM,2
+554,Fruit Medley Juice,3.49,1/27/2024,1:53 PM,28
+555,Artisan Bread Loaf,3.99,11/3/2024,7:05 AM,29
+556,Electric Wax Warmer,22.99,3/1/2024,8:00 AM,2
+557,Wine Decanter,34.99,5/31/2024,10:31 AM,10
+558,Balsamic Vinegar,4.99,6/15/2024,2:38 AM,21
+559,Glass Water Bottle,25.99,8/10/2024,12:49 PM,5
+560,Creamy Garlic Mashed Potatoes,3.99,9/18/2024,11:45 AM,8
+561,Instant Camera,89.99,11/30/2024,7:38 PM,8
+562,Vanilla Protein Powder,24.99,8/23/2024,7:31 PM,1
+563,Digital Food Thermometer,19.99,10/9/2024,6:15 AM,21
+564,Matcha Green Tea Powder,14.99,4/21/2024,2:36 PM,25
+565,Athletic Sports Bra,24.99,8/29/2024,2:20 AM,25
+566,Wooden Blocks,24.99,12/12/2024,4:20 PM,18
+567,Pasta Salad Kit,5.99,11/26/2024,1:28 PM,4
+568,Vanilla Almond Granola,4.29,3/18/2024,1:02 AM,20
+569,Pet Reflective Vest,18.99,2/17/2024,10:12 PM,6
+570,Home Office Chair,199.99,7/5/2024,11:29 PM,22
+571,Walnut Halves,8.49,10/10/2024,9:02 PM,4
+572,Electric Rice Cooker with Steamer,49.99,1/20/2024,10:53 PM,3
+573,Cold Brew Coffee Concentrate,7.99,11/5/2024,8:58 PM,22
+574,Active Racerback Tank,24.99,1/5/2025,11:23 AM,21
+575,Peach Fruit Cups,1.99,6/20/2024,3:26 AM,27
+576,Lemon Pepper Seasoning,3.29,8/28/2024,6:10 AM,1
+577,Chocolate Chip Muffins,3.99,6/8/2024,7:17 PM,30
+578,Rustic Italian Bread,3.59,7/31/2024,11:25 PM,6
+579,Electric Griddle,54.99,5/3/2024,3:00 PM,3
+580,Cinnamon Sugar Mix,1.49,6/27/2024,5:24 PM,16
+581,Bird Feeder,24.99,9/23/2024,7:15 AM,4
+582,Electric Razor,59.99,10/25/2024,9:53 AM,10
+583,Vanilla Bean Greek Yogurt,1.99,11/14/2024,11:11 AM,11
+584,Cinnamon Roll Kit,6.89,1/6/2024,5:05 PM,10
+585,Solar String Lights,29.99,4/15/2024,3:40 AM,29
+586,Adjustable Skipping Rope,12.99,4/24/2024,6:57 AM,4
+587,Educational STEM Kit,35.99,8/24/2024,2:59 AM,15
+588,Hair Dryer,39.99,4/29/2024,6:01 PM,2
+589,Chocolate Avocado Pudding,4.99,7/29/2024,10:24 PM,3
+590,Portable Projector,199.99,8/3/2024,5:53 AM,24
+591,Art Supplies Organizer,18.99,5/1/2024,6:00 PM,6
+592,Vanilla Protein Powder,24.99,6/5/2024,8:01 PM,5
+593,Compressible Packing Cubes,29.99,5/27/2024,3:29 PM,18
+594,Digital Camera,299.99,7/1/2024,6:00 AM,18
+595,Habanero Hot Sauce,3.79,5/8/2024,6:07 AM,13
+596,Canvas Tote Bag,19.99,2/18/2024,9:59 PM,25
+597,Garden Tool Set with Carrying Bag,39.99,2/13/2024,12:45 AM,2
+598,Desk Organizer Set,29.99,10/25/2024,6:37 AM,18
+599,Two-Tone Windbreaker,59.99,7/20/2024,9:15 PM,6
+600,Adjustable Pet Grooming Table,109.99,4/7/2024,7:27 AM,30
+601,Puzzle Mat,22.99,12/15/2024,11:15 PM,25
+602,Halloween Decoration Set,29.99,6/13/2024,11:32 PM,17
+603,Fitness Foam Roller,29.99,7/28/2024,4:41 AM,13
+604,Beef Taco Skillet,8.49,4/27/2024,11:08 AM,14
+605,Wall Decals for Kids,24.99,4/5/2024,4:08 AM,21
+606,Poppy Seed Dressing,3.49,8/28/2024,7:38 PM,8
+607,Fruit and Nut Energy Bites,2.99,3/5/2024,7:50 AM,25
+608,Beef Stroganoff Meal Kit,12.99,9/27/2024,1:29 AM,3
+609,Nail Polish Set,25,12/5/2024,12:54 PM,25
+610,LED Flashlight,19.99,1/6/2025,4:26 AM,18
+611,Travel Eye Mask with Ear Plugs,15.99,3/9/2024,8:06 PM,12
+612,Electric Hot Pot,49.99,11/28/2024,3:21 PM,10
+613,Teriyaki Stir-Fry Sauce,3.49,3/6/2024,5:22 PM,17
+614,Smart Light Switch,29.99,10/14/2024,11:52 PM,6
+615,Vanilla Almond Granola,4.29,1/6/2024,6:48 AM,26
+616,Whole Wheat Pasta,2.49,3/2/2024,7:33 PM,9
+617,Portable Solar Phone Charger,29.99,8/19/2024,11:40 AM,22
+618,Electrolyte Water Bottle,34.99,8/20/2024,1:06 PM,9
+619,Garlic Parmesan Roasted Nuts,4.89,2/25/2024,2:56 AM,21
+620,Basketball,29.99,8/20/2024,1:12 PM,18
+621,Body Wash,12.99,5/22/2024,4:40 AM,14
+622,Dark Chocolate Raisins,3.49,6/8/2024,7:52 PM,2
+623,Wild Rice Pilaf,3.79,1/17/2025,1:16 AM,14
+624,Insulated Wine Tote,24.99,9/24/2024,10:11 PM,3
+625,Electric Rice Cooker,39.99,2/15/2024,3:37 AM,8
+626,Tuscan Bean Soup,2.49,10/26/2024,11:49 AM,16
+627,Peanut Butter Banana Smoothie Mix,4.49,1/29/2024,11:15 PM,29
+628,Sliced Ham,5.49,8/3/2024,10:45 PM,10
+629,BBQ Sauce,3.49,11/23/2024,6:42 PM,6
+630,Personal Safety Alarm,12.99,4/14/2024,6:48 AM,14
+631,Compost Bin,29.99,4/28/2024,1:31 PM,6
+632,Inflatable Paddle Board,349.99,11/12/2024,4:21 AM,27
+633,Fridge Magnet Set,15.99,8/12/2024,2:49 PM,8
+634,Honey Roasted Chickpeas,3.29,6/1/2024,1:25 PM,13
+635,Indoor Plants,19.99,12/19/2024,2:09 PM,16
+636,Rustic Italian Breads,3.99,10/28/2024,8:21 AM,13
+637,Smart Plug,19.99,10/24/2024,8:04 PM,11
+638,Organic Chia Seeds,7.99,2/22/2024,7:44 PM,5
+639,Portable Solar Charger,29.99,11/11/2024,12:28 AM,15
+640,Peach Mango Smoothie Mix,5.99,12/4/2024,8:02 PM,23
+641,Sliced Olives,1.99,2/22/2024,5:02 AM,13
+642,Arcade Game Machine,299.99,3/29/2024,5:14 AM,4
+643,Electric Butter Churn,49.99,10/25/2024,9:24 AM,16
+644,Training Soccer Ball,19.99,6/17/2024,5:03 PM,7
+645,Organic Coconut Flakes,3.49,4/14/2024,6:27 AM,3
+646,Honey Graham Crackers,3.29,3/29/2024,6:57 AM,7
+647,Portable Hand Warmer,24.99,2/16/2024,5:54 AM,4
+648,Mango Sticky Rice Dessert,4.5,5/29/2024,5:49 AM,7
+649,Chocolate Peanut Butter Cups,2.29,2/26/2024,3:20 PM,30
+650,Halloween Decoration Set,29.99,1/9/2025,7:06 AM,17
+651,Portable Phone Charger,29.99,1/6/2025,2:30 PM,8
+652,Organic Almond Flour,6.99,10/5/2024,8:13 PM,19
+653,Patterned Knit Scarf,25.99,8/11/2024,11:22 AM,13
+654,Lemonade Mix,1.99,7/19/2024,10:33 AM,27
+655,Stick Vacuums Cleaner,129.99,11/29/2024,7:30 PM,25
+656,High-Speed Blender,99.99,9/18/2024,8:41 PM,7
+657,Tabletop Fire Pit,79.99,8/1/2024,1:18 PM,20
+658,Glass Food Containers,34.99,7/23/2024,3:47 PM,11
+659,High-Speed HDMI Cable,12.99,4/13/2024,10:29 AM,3
+660,Oven-Baked Cheese Crisps,3.99,9/8/2024,1:12 AM,7
+661,Artisan Flatbreads,2.99,7/29/2024,1:27 AM,30
+662,Portable Charger with Solar Panel,45.99,6/1/2024,1:03 PM,5
+663,Vegetable Quinoa Bowl,5.99,9/22/2024,1:34 AM,3
+664,Vegetable Medley,2.99,10/22/2024,1:10 AM,30
+665,Frozen Salmon Filets,12.99,3/29/2024,12:15 AM,2
+666,Non-Stick Grill Pan,39.99,9/12/2024,6:31 PM,25
+667,Chickpea Snack Mix,3.49,11/5/2024,11:37 AM,22
+668,Spicy Thai Noodles,1.99,8/9/2024,2:28 AM,20
+669,Classic Minestrone Soup,2.99,2/4/2024,10:00 PM,10
+670,Smart Fitness Scale,49.99,2/14/2024,5:36 AM,7
+671,Gardening Tool Belt,22.99,8/16/2024,6:14 AM,20
+672,Kids' Learning Tablet,129.99,7/20/2024,12:08 PM,4
+673,Safety First Aid Kit,29.99,1/30/2025,3:42 PM,8
+674,Bamboo Cutting Board Set,34.99,6/6/2024,6:32 PM,20
+675,Buffalo Cauliflower Bites,6.29,9/3/2024,11:47 AM,6
+676,Stuffed Grape Leaves,5.79,9/5/2024,9:00 PM,14
+677,Peach Fruit Cups,1.99,5/27/2024,1:37 AM,29
+678,Foldable Electric Scooter,349.99,4/30/2024,7:04 AM,9
+679,Kids' Gardening Tools Set,22.99,3/10/2024,12:27 AM,28
+680,Pet Safety Harness,24.99,12/5/2024,10:07 PM,4
+681,Children's Science Experiment Lab Kit,29.99,11/8/2024,3:16 AM,17
+682,Margherita Pizza,7.99,8/21/2024,10:40 AM,3
+683,Kids' Trampoline,139.99,3/27/2024,2:16 PM,3
+684,Canvas Tote Bag,19.99,11/22/2024,8:40 PM,12
+685,Pasta Portion Control Measure,9.99,9/16/2024,5:17 PM,20
+686,Rice Pudding,2.29,6/8/2024,10:22 AM,11
+687,Handheld Garment Steamer,34.99,9/23/2024,2:38 AM,19
+688,Lemon Zest Olive Oil,8.99,1/20/2025,4:58 PM,3
+689,Classic Black Trousers,54.99,4/17/2024,2:07 PM,20
+690,Raisin Cinnamon Granola,3.79,5/27/2024,5:12 PM,9
+691,Cotton Pajama Set,49.99,7/10/2024,7:44 AM,11
+692,Crispy Kale Chips,2.99,6/1/2024,4:47 AM,9
+693,Glass Water Bottle,25.99,12/15/2024,11:49 AM,4
+694,Almond Joy Snack Bars,2.99,8/6/2024,8:19 AM,21
+695,Honey Mustard Dip,3.29,6/18/2024,4:51 PM,14
+696,Smart LED Light Strip,29.99,5/16/2024,8:31 PM,4
+697,Wireless Game Controller,39.99,8/17/2024,8:02 AM,6
+698,Whole Grain Cereal,3.49,11/15/2024,6:11 PM,24
+699,Reusable Produce Bags Set,14.99,1/13/2025,11:22 PM,29
+700,Mango Salsa,3.49,11/5/2024,11:19 PM,11
+701,Mini Hand Gesture Drone,29.99,11/24/2024,2:14 PM,3
+702,Adjustable Dumbbells,249.99,3/9/2024,3:47 AM,28
+703,Mini Electric Kettle,29.99,8/1/2024,4:03 PM,1
+704,Spicy Hummus,3.49,2/24/2024,10:57 AM,17
+705,Lentil Vegetable Curry,4.49,3/27/2024,4:20 AM,22
+706,Self-Stirring Mug,19.99,9/11/2024,11:06 AM,8
+707,Decorative Throw Pillows,29.99,7/8/2024,7:40 PM,19
+708,Car Vacuum Cleaner,39.99,8/4/2024,7:27 PM,22
+709,Pet Safety Belt for Car,14.99,10/1/2024,6:42 AM,28
+710,Organic Black Beans,1.29,1/1/2025,9:36 PM,27
+711,Ginger Snaps,2.79,5/26/2024,9:43 AM,27
+712,Wireless Charging Pad,19.99,12/28/2024,6:45 AM,13
+713,Air Fryer Oven,149.99,12/24/2024,11:32 PM,10
+714,Deluxe First Aid Kit,39.99,4/18/2024,6:21 PM,13
+715,Dog Frisbee Toy,10.99,1/1/2025,11:38 AM,12
+716,Ceramic Knife Set,39.99,1/1/2025,3:30 PM,20
+717,Dog Collar,15.99,8/30/2024,1:32 AM,24
+718,Adjustable Skipping Rope,12.99,8/17/2024,6:47 PM,29
+719,Reclining Camping Chair,49.99,1/9/2025,10:09 AM,28
+720,Tomato Basil Pasta Sauce,3.99,12/10/2024,10:31 AM,17
+721,Fitness Jump Box,69.99,1/24/2024,12:44 PM,14
+722,Peach & Mango Salsa,4.49,5/20/2024,3:57 AM,30
+723,Cilantro Lime Rice,2.99,1/4/2024,2:54 AM,12
+724,Dried Apricots,3.79,4/19/2024,4:44 PM,26
+725,Puffed Rice Cake,2.49,12/24/2024,4:08 PM,7
+726,Fishing Rod,49.99,4/13/2024,2:17 AM,21
+727,Tahini,5.49,5/2/2024,10:11 AM,27
+728,Non-Toxic Crayons for Kids,10.99,11/22/2024,7:14 AM,12
+729,Brown Sugar,1.79,2/6/2024,8:12 PM,13
+730,Peach Halves (canned),2.49,12/17/2024,7:50 PM,25
+731,Black Bean & Corn Salad,3.99,1/18/2024,10:56 AM,30
+732,Gluten-Free Brownies,4.99,1/14/2024,8:46 AM,30
+733,Insulated Lunch Box,24.99,11/6/2024,3:17 PM,19
+734,Robot Vacuum Cleaner,299.99,1/7/2025,11:25 AM,23
+735,Pasta (Linguine),1.89,4/11/2024,6:32 AM,17
+736,Wireless Charging Pad,19.99,7/29/2024,8:42 AM,17
+737,Bird Feeder,24.99,3/15/2024,6:01 PM,2
+738,Fitness Tracker,49.99,9/9/2024,5:36 AM,7
+739,Personal Blender with Cups,34.99,8/29/2024,4:56 AM,1
+740,Chocolate Fudge Brownie Mix,2.99,11/6/2024,7:19 AM,8
+741,Travel Laundry Bag,9.99,5/30/2024,5:38 PM,29
+742,Vintage Button-Down Shirt,45.99,9/28/2024,12:38 AM,28
+743,Dark Chocolate Tart,6.29,4/30/2024,12:04 PM,15
+744,Adjustable Laptop Desk,59.99,1/13/2024,11:41 AM,15
+745,Sweet Potatoes,0.89,4/21/2024,12:00 PM,3
+746,Essential Oils Diffuser Necklace,19.99,7/2/2024,9:05 PM,28
+747,Herb Seasoned Couscous,2.49,1/12/2025,2:07 PM,22
+748,Adjustable Standing Desk,299.99,12/18/2024,11:21 AM,13
+749,Ginger Tea,4.99,6/22/2024,9:19 PM,26
+750,Crafting Kit,29.99,8/18/2024,10:46 PM,2
+751,Infrared Space Heater,99.99,1/5/2025,5:45 AM,25
+752,Zucchini Noodles,3.99,7/31/2024,5:19 AM,12
+753,Buffalo Sauce,2.99,8/27/2024,7:27 PM,25
+754,Pasta (Fusilli),1.79,5/26/2024,2:09 PM,2
+755,Rechargeable Laptop Battery Pack,49.99,3/2/2024,11:32 PM,15
+756,Guitar Tuner,19.99,8/18/2024,7:53 AM,24
+757,Chickpea Pancakes,4.99,8/8/2024,4:20 PM,15
+758,Elegant Lace Dress,79.99,5/10/2024,3:20 PM,8
+759,Biodegradable Trash Bags,12.99,11/5/2024,11:06 AM,13
+760,Smart Plug,19.99,10/12/2024,2:17 AM,18
+761,Falafel Mix,2.79,9/23/2024,5:16 PM,4
+762,Applewood Smoked Bacon,6.99,10/1/2024,11:51 PM,12
+763,Sweet Chili Sauce,2.99,7/16/2024,9:13 PM,16
+764,Car Seat Organizer,14.99,3/12/2024,1:06 PM,12
+765,Miso Soup Mix,3.29,1/2/2025,8:53 PM,27
+766,Classic Caesar Salad Kit,4.99,2/27/2024,3:40 AM,27
+767,Silicone Baking Cups,10.99,11/1/2024,1:41 AM,17
+768,Wall Art Stickers,19.99,6/6/2024,9:46 AM,5
+769,Vegetable Quinoa Bowl,5.99,8/23/2024,9:52 PM,8
+770,Herb Garden Planter Box,49.99,10/15/2024,10:04 PM,11
+771,Kids' Trampoline,139.99,7/7/2024,7:15 AM,10
+772,Classic Cheesecake Mix,4.99,1/10/2025,2:39 PM,9
+773,Bluetooth Shower Speaker,24.99,5/13/2024,11:29 PM,25
+774,Safety Goggles,14.99,6/21/2024,1:56 AM,4
+775,Dark Chocolate Covered Almonds,7.19,7/17/2024,10:11 PM,13
+776,French Onion Dip,2.99,12/31/2024,9:05 PM,3
+777,Fitness Resistance Bands Set,34.99,1/17/2024,3:45 PM,5
+778,Adjustable Pet Grooming Table,109.99,1/29/2025,7:11 PM,23
+779,Art Supplies Organizer,18.99,8/8/2024,1:00 PM,20
+780,Kids' Crafting Station,49.99,7/17/2024,3:12 PM,30
+781,Zucchini Noodles,3.99,7/15/2024,9:39 PM,6
+782,Sliced Bread,2.99,3/23/2024,8:20 PM,15
+783,Salt and Pepper Grinder Set,19.99,1/6/2025,2:54 PM,24
+784,Folding Pocket Knife,24.99,5/20/2024,4:49 AM,4
+785,Samoas Cookie Mix,5.59,10/13/2024,12:58 AM,27
+786,Home Delivery Food Journal,14.99,7/23/2024,7:55 PM,6
+787,Yoga Mat Carrier,12.99,12/30/2024,11:10 AM,6
+788,Apple Pie Filling,3.49,8/23/2024,4:45 AM,21
+789,Sea Salt Tortilla Chips,2.49,3/9/2024,5:17 PM,5
+790,Pet Grooming Kit,39.99,12/27/2024,6:10 PM,18
+791,Rain Jacket,64.99,10/22/2024,4:09 AM,16
+792,Avocado Oil Mayo,5.29,5/27/2024,8:42 AM,1
+793,Art Supplies Organizer,18.99,4/21/2024,3:38 AM,10
+794,Chili Lime Shrimp,8.99,10/20/2024,11:39 AM,4
+795,Vegan Protein Powder,34.99,1/28/2025,1:34 PM,10
+796,Rain Jacket,64.99,8/31/2024,10:11 PM,30
+797,Artisan Bread Loaf,3.99,6/26/2024,10:40 AM,1
+798,Over-the-Door Shoe Organizer,22.99,4/23/2024,11:41 PM,14
+799,Cheese Stuffed Jalapenos,5.99,8/3/2024,6:41 PM,18
+800,Lentil Pasta,4.99,1/10/2025,8:55 PM,19
+801,Mango Chilli Sauce,3.99,1/18/2025,10:23 AM,8
+802,Apple Pie Filling,3.49,7/3/2024,6:54 PM,3
+803,Personal Blender,39.99,3/24/2024,5:23 AM,16
+804,Avocado Oil Mayo,5.29,9/3/2024,10:22 PM,26
+805,LED Desk Lamp with USB Charging,39.99,1/17/2025,12:20 AM,17
+806,DIY Lip Balm Making Kit,22.99,12/27/2024,11:19 PM,11
+807,Cheesy Cauliflower Bake,5.49,3/29/2024,7:39 AM,6
+808,Rustic Wooden Picture Frame,19.99,3/17/2024,2:18 AM,16
+809,Tattoo Kit,99.99,12/19/2024,5:50 PM,21
+810,Tomatillo Salsa,3.29,3/26/2024,9:32 AM,15
+811,Wireless Security Camera,109.99,2/17/2024,9:06 PM,10
+812,Lemon Sorbet,4.99,2/7/2024,7:21 PM,2
+813,Habanero Hot Sauce,3.79,8/6/2024,2:00 PM,3
+814,Sesame Garlic Noodles,3.49,3/3/2024,8:07 AM,13
+815,Blue Denim Jeans,49.99,7/1/2024,6:41 AM,5
+816,Wooden Kitchen Utensil Set,19.99,6/16/2024,3:08 AM,14
+817,Mini Projector for Smartphones,99.99,10/9/2024,10:50 AM,19
+818,Honey BBQ Ribs,12.99,5/8/2024,6:46 PM,27
+819,Vegetable and Cheese Quesadillas,6.99,8/15/2024,7:45 PM,10
+820,Mini Indoor Hydroponic Garden,59.99,4/15/2024,11:51 PM,4
+821,Electric Toothbrush Holder,14.99,12/31/2024,8:31 AM,17
+822,Over-Ear Headphones,59.99,3/26/2024,11:08 PM,29
+823,Surimi Crab Sticks,4.19,8/15/2024,9:33 AM,28
+824,Instant Mashed Potatoes,1.79,11/17/2024,2:07 AM,29
+825,Chocolate Syrup,2.99,9/23/2024,12:32 PM,20
+826,Turkey Bacon,3.99,9/3/2024,5:20 PM,11
+827,Smart WiFi Plug,19.99,11/19/2024,1:51 PM,22
+828,Banana Nut Muffins,4.49,1/9/2024,11:14 AM,8
+829,Watercolor Brush Pens,19.99,4/26/2024,7:06 AM,7
+830,Travel Luggage Scale,14.99,6/28/2024,5:02 PM,20
+831,Garden Tool Set with Carrying Bag,39.99,5/31/2024,3:33 PM,2
+832,Baked Falafel,5.49,11/26/2024,9:49 AM,30
+833,Weighted Blanket,79.99,4/5/2024,5:44 AM,3
+834,Smart Thermos,39.99,3/3/2024,3:31 AM,30
+835,Red Lentil Pasta,3.99,1/19/2024,4:41 PM,8
+836,Wildflower Honey,4.99,6/9/2024,5:35 AM,11
+837,Non-Toxic Crayons for Kids,10.99,12/25/2024,7:22 AM,25
+838,Folding Backpack Chair,49.99,8/3/2024,12:59 AM,25
+839,Vegetable Sushi Rolls,5.99,12/10/2024,8:44 AM,4
+840,Patterned Knit Scarf,25.99,5/20/2024,6:39 PM,22
+841,Classic Caesar Dressing,3.49,7/31/2024,4:04 AM,8
+842,Vintage Button-Down Shirt,45.99,7/17/2024,5:31 AM,16
+843,Body Pillow Case,14.99,2/2/2024,4:20 PM,13
+844,Honey Lemon Tea,3.29,3/4/2024,12:48 AM,14
+845,Thai Peanut Noodles,4.99,12/2/2024,10:02 PM,4
+846,Sweet Potato Chips,2.99,11/22/2024,3:32 PM,2
+847,Maple Almond Butter,5.49,1/14/2024,12:08 PM,2
+848,Sliced Turkey Breast,5.49,7/16/2024,2:15 PM,3
+849,Smart Home Security Camera,79.99,6/16/2024,6:09 AM,25
+850,Video Camera,199,11/10/2024,8:45 AM,10
+851,Incense Holder,14.99,11/20/2024,9:26 AM,9
+852,Wireless Gaming Mouse,39.99,7/1/2024,2:22 AM,23
+853,Electric Bike,899.99,2/14/2024,1:23 PM,4
+854,Foam Muscle Roller,24.99,12/2/2024,8:39 PM,25
+855,Sweet Potatoes,0.89,1/21/2024,6:27 PM,21
+856,Cabbage Slaw Mix,2.29,2/2/2024,8:12 AM,18
+857,Classic Watch,99.99,1/14/2024,10:27 PM,26
+858,Portable Massage Gun,79.99,10/18/2024,11:48 AM,14
+859,Artisan Cornbread Mix,2.49,5/1/2024,5:27 PM,2
+860,Printed Maxi Skirt,39.99,10/17/2024,3:31 AM,9
+861,Shredded Cheese,4.29,6/30/2024,2:49 AM,7
+862,Frozen Acai Bowl,6.49,12/17/2024,8:38 AM,5
+863,Gardening Tool Belt,22.99,9/3/2024,9:24 AM,10
+864,Tomato Sauce,2.79,4/5/2024,3:12 AM,28
+865,Emergency Preparedness Kit,99.99,4/6/2024,1:15 AM,1
+866,Ceramic Bakeware Set,49.99,10/3/2024,7:21 PM,28
+867,High-Quality Yoga Block,12.99,7/16/2024,2:12 AM,11
+868,Sriracha Sauce,3.19,6/8/2024,6:07 PM,13
+869,Smart Wi-Fi Camera,89.99,7/16/2024,8:54 PM,26
+870,Roasted Red Pepper Sauce,3.29,7/11/2024,12:45 PM,13
+871,Compact Shoe Rack,34.99,6/11/2024,1:44 PM,15
+872,Sesame Ginger Dressing,4.09,3/29/2024,5:02 AM,24
+873,Smartphone Projector,29.99,7/3/2024,10:14 PM,6
+874,Frozen Mixed Berries,5.99,10/24/2024,2:29 PM,1
+875,Snack Container Set,19.99,4/26/2024,1:26 PM,13
+876,Foam Roller for Muscle Recovery,29.99,2/19/2024,11:44 PM,15
+877,Pineapple Salsa,4.29,6/19/2024,2:36 AM,16
+878,Maple Cinnamon Granola Bars,3.49,2/13/2024,8:35 PM,24
+879,Garlic Butter Shrimp,8.99,5/17/2024,5:13 PM,7
+880,Sweet and Spicy Barbecue Sauce,3.99,11/22/2024,10:50 AM,29
+881,Vanilla Almond Granola,4.29,2/25/2024,2:22 PM,10
+882,Pretzel Bites,4.99,9/5/2024,10:52 PM,29
+883,DIY Candle Making Kit,22.99,5/9/2024,5:52 AM,22
+884,USB Flash Drive,9.99,1/21/2025,10:17 PM,10
+885,Raspberry Lemonade Mix,3.99,5/24/2024,5:08 AM,23
+886,Cable Knit Beanie,19.99,3/27/2024,7:40 PM,3
+887,Coconut Milk Ice Cream,6.99,12/19/2024,3:51 PM,16
+888,Whisk Set,12.99,5/4/2024,1:05 PM,25
+889,Oven Thermometer,11.99,7/11/2024,3:34 PM,8
+890,Dried Apricots,3.79,4/28/2024,3:11 PM,25
+891,Chic Ankle Strap Heels,69.99,9/3/2024,6:14 AM,5
+892,Plant Watering Spikes,12.99,8/13/2024,8:05 PM,29
+893,Almond Quinoa Salad,5.99,12/5/2024,10:55 PM,14
+894,Coconut Lime Rice,2.99,10/9/2024,6:28 AM,21
+895,Bamboo Toothbrush Holder,14.99,11/6/2024,10:09 PM,26
+896,Black Bean Salsa,3.49,6/7/2024,12:21 PM,2
+897,Honey Graham Crackers,3.29,11/1/2024,8:12 PM,19
+898,USB Flash Drive,9.99,10/27/2024,5:18 AM,21
+899,Camera Tripod,49.99,1/13/2025,6:47 AM,9
+900,Freestanding Wine Rack,79.99,4/13/2024,2:06 AM,7
+901,Cinnamon Roll Protein Bar,2.99,11/24/2024,9:41 PM,22
+902,Vegetable Chips,3.99,6/16/2024,2:35 AM,14
+903,Electric Pressure Washer,199.99,11/4/2024,10:21 PM,25
+904,Chickpeas,1.29,3/29/2024,1:23 AM,5
+905,Cotton Sweatpants,29.99,11/15/2024,1:32 AM,10
+906,Thai Basil Fried Rice,5.99,11/3/2024,2:00 AM,6
+907,Vegetable Spring Rolls,6.49,1/24/2024,8:11 AM,13
+908,Honey BBQ Riblets,12.99,11/16/2024,10:51 AM,17
+909,Pineapple Rings,2.49,7/24/2024,2:07 PM,20
+910,Honey mustard chicken tenders,7.99,11/4/2024,11:09 PM,16
+911,Bamboo Memory Foam Pillow,34.99,3/27/2024,12:28 PM,28
+912,Wireless Security Camera,109.99,1/18/2025,4:06 PM,5
+913,Personal Safety Alarm,12.99,4/3/2024,2:29 AM,9
+914,Electric Pressure Cooker,89.99,8/21/2024,5:18 PM,13
+915,Portable UV Sterilizer,19.99,6/16/2024,4:22 AM,12
+916,Chocolate Mint Cookies,2.29,8/23/2024,8:20 PM,18
+917,Chocolate Chip Cliff Bars,2.49,1/18/2024,8:25 PM,20
+918,Reflective Safety Vest,19.99,11/18/2024,6:57 PM,11
+919,Balsamic Vinegar,4.99,6/4/2024,1:12 PM,27
+920,Travel Size Toiletry Bottles,9.99,1/9/2025,1:34 PM,23
+921,Honey Garlic Shrimp,8.49,11/16/2024,3:36 PM,8
+922,Roasted Garlic Aioli,3.79,8/18/2024,10:13 AM,1
+923,Himalayan Pink Salt,1.99,10/27/2024,11:42 AM,25
+924,Cotton Quilted Throw Blanket,39.99,2/5/2024,11:36 AM,12
+925,Almond Flour Brownies,5.99,3/9/2024,8:28 AM,11
+926,Wireless Induction Charger,19.99,11/20/2024,5:43 PM,4
+927,Adjustable Stand for Tablets and Smartphones,19.99,6/4/2024,3:02 AM,25
+928,Cabbage,1.29,1/5/2025,6:01 PM,19
+929,Organic Italian Seasoning,2.99,1/6/2025,10:53 AM,19
+930,Wild Rice & Quinoa Mix,2.99,9/10/2024,3:49 AM,30
+931,Mushrooms,2.99,7/8/2024,2:41 PM,21
+932,Glass Tea Pot,34.99,9/24/2024,12:58 PM,23
+933,Fitness Activity Journal,14.99,11/11/2024,11:14 AM,20
+934,Portable Hammock Swing,59.99,11/29/2024,6:02 PM,8
+935,Brown Sugar,1.79,2/14/2024,2:06 PM,26
+936,Marinated Artichokes,3.79,10/10/2024,11:23 PM,25
+937,Weighted Blanket for Adults,59.99,8/27/2024,9:05 AM,17
+938,Chili Beans (canned),1.69,8/19/2024,7:21 AM,21
+939,Stainless Steel Water Bottle,25.99,10/13/2024,8:57 PM,12
+940,Travel Document Organizer,15.99,4/8/2024,12:48 AM,12
+941,Frozen Spinach,1.99,3/23/2024,10:00 PM,11
+942,Classic Leather Wallet,34.99,4/6/2024,2:46 PM,15
+943,Electric Milk Frother,19.99,1/29/2025,5:05 AM,8
+944,DIY Candle Kit,34.99,1/22/2024,3:13 AM,20
+945,Garden Hose Reel,49.99,9/2/2024,6:51 AM,30
+946,Garlic and Herb Rub,2.29,10/4/2024,3:44 AM,7
+947,Pleated Midi Dress,79.99,9/5/2024,11:20 AM,11
+948,Over-the-Door Hooks,12.99,4/10/2024,3:35 PM,13
+949,Memory Foam Pillow,39.99,4/18/2024,7:29 AM,10
+950,Digital Drawing Tablet,79.99,6/5/2024,6:48 AM,3
+951,Vegetable Stir-Fry Kit,6.99,2/10/2024,10:10 PM,17
+952,Reusable Coffee Filter,10.99,5/1/2024,7:41 PM,3
+953,Blueberry Oatmeal Cups,3.29,1/28/2025,1:13 PM,22
+954,Indoor Grill,59.99,8/15/2024,4:44 PM,16
+955,Noise-Canceling Earbuds,79.99,1/15/2024,9:11 PM,6
+956,Folding Backpack Chair,49.99,1/17/2025,3:10 PM,14
+957,LED Desk Lamp with USB Charging Port,29.99,9/24/2024,11:59 AM,14
+958,Digital Photo Frame,79.99,2/10/2024,4:14 AM,22
+959,Bamboo Toothbrush Holder,14.99,11/13/2024,4:42 AM,25
+960,Buffalo Chicken Dip,5.99,9/4/2024,11:33 PM,7
+961,Wall-Mounted Wine Rack,39.99,5/3/2024,9:03 AM,27
+962,Cinnamon Roll Kit,6.89,2/24/2024,4:24 PM,15
+963,LED Desk Lamp with USB Charging,39.99,4/19/2024,2:30 PM,29
+964,LED Desk Lamp with USB Charging,39.99,2/18/2024,5:19 AM,14
+965,Chicken Breasts,9.99,4/4/2024,4:34 PM,25
+966,Tortilla Chips,2.99,1/19/2025,11:52 PM,2
+967,Vegetable Pizza Rolls,6.49,11/2/2024,2:00 AM,5
+968,Blueberry Oatmeal Cups,3.29,10/1/2024,2:49 AM,23
+969,Dried Mango Slices,3.49,1/28/2024,9:52 PM,9
+970,Memory Foam Pillow,39.99,9/5/2024,5:04 AM,23
+971,Toasted Coconut Granola,4.99,6/5/2024,8:51 AM,23
+972,Maple Bacon Jerky,6.99,11/22/2024,4:55 PM,13
+973,Smashed Avocado with Lime,2.49,5/27/2024,5:49 AM,18
+974,Pork Tenderloin,10.99,9/22/2024,3:39 PM,24
+975,Over-the-Door Shoe Organizer,22.99,2/10/2024,8:08 AM,25
+976,Photo Album,24.99,12/17/2024,8:56 PM,8
+977,Bodyweight Resistance Bands,22.99,5/16/2024,3:57 PM,1
+978,Lentil Pasta,4.99,1/29/2025,10:40 AM,18
+979,Coffee Grinder,39.99,4/19/2024,9:47 AM,13
+980,Pineapple Teriyaki Chicken Mix,6.99,1/8/2025,1:41 PM,1
+981,Spicy Snack Mix,4.99,11/3/2024,5:02 AM,9
+982,Winter Insulated Jacket,89.99,10/15/2024,9:11 AM,25
+983,Diced Tomatoes (canned),1.49,9/17/2024,2:36 PM,7
+984,Kettle Corn Popcorn,2.99,5/12/2024,9:43 AM,26
+985,Baby Monitor,79.99,1/7/2024,6:45 PM,1
+986,Ceramic Non-Stick Frying Pan,39.99,12/6/2024,6:24 AM,5
+987,Travel Sewing Kit,12.99,1/19/2025,8:15 AM,12
+988,Portable UV Sterilizer,19.99,11/4/2024,1:11 AM,9
+989,Italian Sausage Links,5.99,4/7/2024,2:16 AM,9
+990,Bamboo Charcoal Air Purifier Bags,12.99,10/31/2024,11:01 AM,20
+991,Pork Chops,9.49,6/14/2024,2:25 AM,4
+992,Cheddar Cheese Crackers,2.29,4/23/2024,8:05 AM,23
+993,Indoor Grill,59.99,9/11/2024,7:58 PM,1
+994,Self-Massaging Pillow,49.99,2/9/2024,10:15 AM,1
+995,Berry Smoothie Mix,4.99,4/13/2024,3:24 PM,11
+996,Crispy Tofu Bites,4.99,7/27/2024,1:36 PM,5
+997,Electronic Drum Kit,359.99,1/20/2024,2:19 PM,16
+998,Window Bird Feeder with Suction Cups,28.99,1/8/2024,2:59 AM,20
+999,Organic Coconut Oil,8.99,10/8/2024,7:54 AM,19
+1000,Peanut Butter Granola,4.99,8/21/2024,11:06 PM,1

@@ -16,6 +16,6 @@
 
 5. ⚙️ .[**The Aether Portal Landing Page  Challenge**](./The-Aether-Portal-Landing-Page-Challenge)
 
-6. 🧾 .[**The Data Analytics Code Challenge**](./The-Data-Analytics-Code-Challenge)
+6. 🧾 .[**The Data Analytics Code Challenge**](./The-Data-Analytics-Challenge)
 
 ---

@@ -18,4 +18,6 @@
 
 6. 🧾 .[**The Data Analytics Code Challenge**](./The-Data-Analytics-Challenge)
 
+7. 🧠 .[**The NeuroCram Challenge**](./The-NeuroCram-Challenge)
+
 ---
